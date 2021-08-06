@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+  }
+  .container{
+    
+    padding: 10px;
+  }
+  
+  .footer{
+      display: flex;
+      gap: 20px;
+      background-color: black;
+      color: white;
+    }
+    .image{
+      display: flex;
+      justify-content: center;
+      width: 100%;
+
+    }
+  
